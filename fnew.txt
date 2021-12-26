@@ -1,0 +1,2 @@
+Alphabets	words	digits	special
+16	6	3	2	
