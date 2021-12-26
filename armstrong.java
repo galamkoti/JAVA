@@ -23,5 +23,6 @@ public class armstrong {
             System.out.println("the number is  not an armstrong");
         }
         sc.close();
+        //changed java file
     }
 }
